@@ -25,10 +25,8 @@ class Horaire:
             self.pauses.append(int(p))
             print(self.pauses)
         while heure <= self._temps_ecole:
-            print(f"Heure numéro {heure} d'école: ")
+            print(f"Heure numéro {heure} d'école")
             for p in self.pauses:
                 if p == heure:
                     print("L'étudiant est en pause.")
-                else:
-                    print("L'étudiant est en cours.")
             heure += 1
