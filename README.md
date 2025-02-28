@@ -1,2 +1,4 @@
 # Projet_equipe_28_fev
-Application de gestion d'étudiants où chaque étudiant va être attribué un identifiant étudiant ainsi que leur liste de devoirs qui lui ont été attribués
+Nous avons besoin d'une application pour gérer des étudiants, leurs devoirs ainsi que de planifier leurs heures de pauses dans la journée.
+
+merci.
