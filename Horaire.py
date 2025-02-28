@@ -30,5 +30,5 @@ class Horaire:
                 if p == heure:
                     print("L'étudiant est en pause.")
                 else:
-                    print(L'étudiant est en cours.')
+                    print("L'étudiant est en cours.")
             heure += 1
